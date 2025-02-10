@@ -1,2 +1,2 @@
 # MPC-HC-Translated
-MPC-HC Lite 单文件版本的简体中文翻译版
+MPC-HC 主程序的简体中文翻译版，其他程序文件自己获取。
